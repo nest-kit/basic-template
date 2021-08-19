@@ -1,7 +1,7 @@
 {
-  "name": "auth-basic",
+  "name": "basic-template",
   "version": "0.0.1",
-  "description": "基础权限验证实现",
+  "description": "干净的 Nestjs 启动项目",
   "author": "StringKE",
   "private": true,
   "license": "UNLICENSED",
